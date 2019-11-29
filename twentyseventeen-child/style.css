@@ -11,3 +11,24 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyseventeenchild
 */
+
+
+/*--------------------------------------------------------------
+10.0 Links
+--------------------------------------------------------------*/
+
+a {
+	color: #229AC6;
+	text-decoration: none;
+}
+
+a:focus {
+	outline: thin dotted;
+	color: #229AC6;
+}
+
+a:hover,
+a:active {
+	color: #C6BF22;
+	outline: 0;
+}
