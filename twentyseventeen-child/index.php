@@ -42,6 +42,7 @@ get_header(); ?>
 					<h2>LOOP</h2>
 					<?php
 					the_title();
+					the_author();
 				
 					
 					

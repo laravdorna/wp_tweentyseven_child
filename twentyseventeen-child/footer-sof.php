@@ -16,7 +16,7 @@
 
 		</div><!-- #content -->
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
+		<footer id="colophon2" class="site-footer" role="contentinfo">
 			<div class="wrap">
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
@@ -38,9 +38,10 @@
 					</nav><!-- .social-navigation -->
 					<?php
 				endif;
+					//esta parte carga el final de la pagina 
+					?>
+					<h1>pagina creada por lara</h1>
 
-	
-				?>
 			</div><!-- .wrap -->
 		</footer><!-- #colophon -->
 	</div><!-- .site-content-contain -->

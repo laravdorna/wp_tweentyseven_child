@@ -1,6 +1,6 @@
 <?php
 /**
-* Template Name: FooterSimple
+* Template Name: FooterSofisticado
 * Template Post Type: page
 *
 * @package WordPress
@@ -32,4 +32,5 @@ get_header(); ?>
 </div><!-- .wrap -->
 
 <?php
-get_footer("pag");
+get_footer("sof");
+
